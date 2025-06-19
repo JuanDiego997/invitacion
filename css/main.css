@@ -40,7 +40,7 @@ body {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
   #lyrics {
       font-size: 20px; /* Reduce el tamaño del texto para dispositivos más pequeños */
-      margin-top: 250px;
+      margin-top:25px;
       letter-spacing: 3px;
   }
 
